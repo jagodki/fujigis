@@ -17,7 +17,7 @@
 package layer;
 
 /**
- *
+ * This is an abstract class for representing a surface.
  * @author Christoph
  */
 public abstract class Surface extends Geometry {
